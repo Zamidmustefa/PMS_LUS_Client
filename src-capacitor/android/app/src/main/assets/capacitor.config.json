@@ -1,0 +1,7 @@
+{
+  "appId": "org.pmsclient.com",
+  "appName": "PMS Shop",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
